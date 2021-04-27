@@ -3,6 +3,12 @@
 	border-radius: 0;
 	border: 2px solid black;
 }
-h1 {
+.navbar-brand a {
+	color: black;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
 	color: black;
 }
