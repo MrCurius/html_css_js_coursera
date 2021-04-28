@@ -45,7 +45,7 @@
 .navbar-default .navbar-toggle .icon-bar [aria-expanded="true"] {
 	background-color: #fff
 }
-h2, h3 {
+h3 {
 	font-weight: bold;
 	text-align: center;
 }
